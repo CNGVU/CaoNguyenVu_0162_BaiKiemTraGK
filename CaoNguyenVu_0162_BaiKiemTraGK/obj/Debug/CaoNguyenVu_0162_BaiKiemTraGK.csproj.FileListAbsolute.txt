@@ -1,0 +1,7 @@
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\bin\Debug\CaoNguyenVu_0162_BaiKiemTraGK.exe.config
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\bin\Debug\CaoNguyenVu_0162_BaiKiemTraGK.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\bin\Debug\CaoNguyenVu_0162_BaiKiemTraGK.pdb
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\obj\Debug\CaoNguyenVu_0162_BaiKiemTraGK.csproj.AssemblyReference.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\obj\Debug\CaoNguyenVu_0162_BaiKiemTraGK.csproj.CoreCompileInputs.cache
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\obj\Debug\CaoNguyenVu_0162_BaiKiemTraGK.exe
+E:\Workspace\DH_SPKT\223\Workspace_CS\CaoNguyenVu_0162_BaiKiemTraGK\CaoNguyenVu_0162_BaiKiemTraGK\obj\Debug\CaoNguyenVu_0162_BaiKiemTraGK.pdb
